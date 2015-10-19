@@ -1,0 +1,15 @@
+<suite name="launch on grid" parlell="tests">
+  <test name="launch firefox">
+	<parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="day1.Test1"/>
+      </classes>
+    </test>
+     <test name="launch chrome">
+	<parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="day1.Test1"/>
+      </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.FilterInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.hwpf.model.FileInformationBlock"/>
+<fullyQualifiedTypeName name="read"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.google.common.collect.Table.Cell"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Parameters"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Platform"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebDriver"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.URL"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+</qualifiedTypeNameHistroy>

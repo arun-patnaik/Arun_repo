@@ -1,0 +1,20 @@
+<suite name="launch on grid" parlell="tests">
+  <test name="launch firefox">
+	<parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="grid.LaunchBrowser"/>
+      </classes>
+    </test>
+     <test name="launch chrome">
+	<parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="grid.LaunchBrowser"/>
+      </classes>
+    </test>
+<!--        <test name="launch IE"> -->
+<!-- 	<parameter name="browser" value="internetExplorer"/> -->
+<!--     <classes> -->
+<!--       <class name="grid.LaunchBrowser"/> -->
+<!--       </classes> -->
+<!--     </test> -->
+</suite>

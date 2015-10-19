@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [launch on grid]">
+  <parameter name="browser" value="chrome"/>
+  <test name="launch firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="day1.Test1">
+        <methods>
+          <include name="set" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- day1.Test1 -->
+    </classes>
+  </test> <!-- launch firefox(failed) -->
+  <test name="launch chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="day1.Test1">
+        <methods>
+          <include name="set" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- day1.Test1 -->
+    </classes>
+  </test> <!-- launch chrome(failed) -->
+</suite> <!-- Failed suite [launch on grid] -->
